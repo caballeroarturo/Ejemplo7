@@ -6,7 +6,7 @@ output:
 date: "`r Sys.Date()`"
 ---
 
-## Tablas en HTML 
+## Tablas en HTML
 
 Comenzamos instalando el paquete `rvest` el cual nos permitirá realizar la lectura de la tabla en el HTML
 
@@ -29,9 +29,9 @@ tables <- html_nodes(file, "table")
 tables
 ```
 
-## Hay que analizar 'tables' 
+## Hay que analizar 'tables'
 
-Para determinar cual es la posición en la lista que contiene la tabla, en este caso es la no. 4 
+Para determinar cual es la posición en la lista que contiene la tabla, en este caso es la no. 4
 
 Extraemos la tabla de acuerdo a la posición en la lista
 
@@ -49,7 +49,7 @@ table <- na.omit(table1)
 str(table)  # Vemos la naturaleza de las variables
 ```
 
-## Por último realizamos una conversión de una columna 
+## Por último realizamos una conversión de una columna
 
 Tipo `chr` a `num`, se pueden hacer las conversiones que se requieran
 
@@ -57,4 +57,3 @@ Tipo `chr` a `num`, se pueden hacer las conversiones que se requieran
 table$Albedo <- as.numeric(table$Albedo)
 str(table)
 ```
-
