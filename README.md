@@ -10,6 +10,7 @@ Es un repositorio de ejemplo para R
 
 [Ejemplo4 - Primera parte](https://caballeroarturo.github.io/Ejemplo7/Ejemplo4_1.html)
 
+[Ejemplo4 - Segunda parte](https://caballeroarturo.github.io/Ejemplo7/Ejemplo4_2.html)
 
 Todo esto esta en el repositorio de GITHUB: 
 
