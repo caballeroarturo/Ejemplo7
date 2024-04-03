@@ -4,5 +4,6 @@
 
 Es un repositorio de ejemplo para R
 
-https://caballeroarturo.github.io/Ejemplo7/archivosubir
+[Ejemplo3 en Colab](https://colab.research.google.com/github/caballeroarturo/Ejemplo7/blob/main/Ejemplo_03.ipynb "Ejemplo3 en Colab")
 
+[archivos subir](https://caballeroarturo.github.io/Ejemplo7/archivosubir "archivos subir")
