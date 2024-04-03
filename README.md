@@ -9,3 +9,8 @@ Es un repositorio de ejemplo para R
 [archivos subir](https://caballeroarturo.github.io/Ejemplo7/archivosubir "archivos subir")
 
 [Ejemplo4 - Primera parte](https://caballeroarturo.github.io/Ejemplo7/Ejemplo4_1.html)
+
+
+Todo esto esta en el repositorio de GITHUB: 
+
+[Ejemplo 7 de la clase de BEDU](https://github.com/caballeroarturo/Ejemplo7)
