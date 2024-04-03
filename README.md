@@ -2,4 +2,4 @@
 
 ## Clase Bedu
 
-Es un repositorio de ejemplo
+Es un repositorio de ejemplo para R
